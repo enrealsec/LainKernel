@@ -65,7 +65,6 @@ You'll need:
 - GRUB tools (can use WSL for this step)
 - QEMU for testing
 
-## Building
 
 ### Quick Build
 
